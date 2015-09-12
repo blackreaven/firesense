@@ -1,0 +1,13 @@
+{
+  "title": "Firesense",
+  "name": "firesense",
+  "version": "0.0.1",
+  "description": "ElasticSearch add on",
+  "main": "index.js",
+  "author": "blackreaven",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT"
+}
